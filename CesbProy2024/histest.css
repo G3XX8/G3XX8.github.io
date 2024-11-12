@@ -1,0 +1,53 @@
+header{
+    height: 50px;
+    width: 100%;
+    background-color: dodgerblue;}
+body{margin:0px;
+    padding:0px;
+    background-image: url("wmp.jpg");
+    background-size: 100%;}
+#botmenu{height: 50px;
+    width: 50px;
+    border:black 1px solid;
+    border:0px;
+    cursor:pointer;
+    background-color: dodgerblue;}
+#botmenu img{width:100%;}
+.ck{height: 410px;
+    width: 300px;
+    background-image: url("papel.jpg");
+    border:1px black solid;
+    border-radius: 15px;
+    display:inline-block;
+    margin-top: 80px;
+    margin-left:230px;
+    text-align:center;
+    padding:10px;}
+.ck:hover{padding:15px;
+    height:410px;
+    width:320px;
+    transition-duration: 300ms;
+    border:10px,rgb(129, 179, 254) solid;}
+.ck a{text-decoration: none;
+    color:black;
+    font-family:"Monotype Corsiva","Times New Roman";
+    font-size: 30px;
+    border-radius: 15px;
+    border:1px black solid;
+    overflow:hidden;
+    padding:50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+.ck img{height: 200px;
+    width:300px;
+    margin-top:5px;
+    padding:0px;
+    border-radius: 15px;
+    border:1px black solid;}
+#pagcont{height:190px;
+    width:100%;
+    margin-top:10px;
+    display:block;
+    border-radius: 15px;
+    align-content: center;}

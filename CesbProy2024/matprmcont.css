@@ -1,0 +1,16 @@
+body{margin:0px;
+    padding:0px;}
+header{background-color: salmon;
+    height: 50px;}
+#botmen{height:50px;
+    width: 50px;
+    background-color:salmon;
+    border:0px solid black;
+    cursor:pointer;}
+#botmen img{
+    width:100%;
+}
+.botcont{height:50px;
+    width: 1000px;
+    flex-direction: column;
+    cursor:pointer;}
